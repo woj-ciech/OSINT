@@ -19,7 +19,7 @@ You can check user's ID easily by adding double underscore at the end of the req
 
 Examples:
 
-![alt text](http://i.imgur.com/hlU7fUj.png)
+![alt text]()
 
 TODO:
 - improve hashtags parsing
