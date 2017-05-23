@@ -17,10 +17,11 @@ Usage:
 ./script "ID"
 You can check user's ID easily by adding double underscore at the end of the request, like this https://www.instagram.com/USERNAME/?__a=1 and look for owner id in json response.
 
-Examples:
+Examples: (random person)
 
 ![alt text](http://i.imgur.com/2eOwovn.png)
 
+![alt text](http://i.imgur.com/WTVkFPM.png)
 TODO:
 - improve hashtags parsing
 - make it faster
