@@ -1,8 +1,8 @@
 # OSINT
 
-Small scripts for OSINT.
-#1. Instagram
-Description
+Small scripts for OSINT.<br>
+#1. Instagram<br>
+Description:<br>
 Small proof of concept to show how to retrieve exact location of photos from instagram. At instagram.com you can only see Approximate location like country and city. This script gets latitude and longitude from photos with location and next check this values with GeoPy. Additionaly can count all hashtags.
 
 Functions:
@@ -14,7 +14,7 @@ Requirements:
 - InstagramApi for python (https://github.com/LevPasha/Instagram-API-python)
 
 Usage:
-./script "ID"
+#python insta.py ID<br>
 You can check user's ID easily by adding double underscore at the end of the request, like this https://www.instagram.com/USERNAME/?__a=1 and look for owner id in json response.
 
 Examples: (random person)
