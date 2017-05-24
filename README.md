@@ -10,8 +10,8 @@ Functions:
 - Get exact location of all photos (thanks to GeoPy) with timestamp 
 
 Requirements:
-- GeoPy 
-- InstagramApi for python (https://github.com/LevPasha/Instagram-API-python)
+- GeoPy (pip install geopy)
+- InstagramApi for python (https://github.com/LevPasha/Instagram-API-python) (pip install -e git+https://github.com/LevPasha/Instagram-API-python.git#egg=InstagramAPI)
 
 Usage:
 #python insta.py ID<br>
