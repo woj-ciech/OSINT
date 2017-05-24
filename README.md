@@ -3,7 +3,9 @@
 Small scripts for OSINT.<br>
 #1. Instagram<br>
 Description:<br>
-Small proof of concept to show how to retrieve exact location of photos from instagram. At instagram.com you can only see approximate location like country and city. This script gets latitude and longitude from photos and next checks this values with GeoPy. Additionaly can count all hashtags.
+Small proof of concept to show how to retrieve exact location of photos from instagram. At instagram.com you can only see approximate location like country and city. This script gets latitude and longitude from photos and next checks this values with GeoPy. Additionaly can count all hashtags.<br>
+<h2>Tested with >600 photos<br>
+Do not forget to change your api credentials
 
 Functions:
 - Count and show all hashtags
