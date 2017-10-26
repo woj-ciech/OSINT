@@ -5,7 +5,7 @@ Amazon roulette
 3. Follow the instructions in script and it will be working, otherwise it won't
 
 Dictionary in form:
-company1.s3.amazonaws.com
+company1.s3.amazonaws.com<br>
 company2.s3.amazonaws.com
 
 One screen explains all
