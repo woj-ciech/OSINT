@@ -9,4 +9,4 @@ company1.s3.amazonaws.com
 company2.s3.amazonaws.com
 
 One screen explains all
-![Alt Text](https://imgur.com/a/3cdLD)
+![Alt Text](https://i.imgur.com/NDSFZTa.png)
